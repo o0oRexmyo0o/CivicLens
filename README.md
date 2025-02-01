@@ -1,8 +1,3 @@
-Sure! Here's the final updated README with both your GitHub link and Discord invite included.
-
-
----
-
 🚀 CivicLens – A Government Transparency & Civic Engagement Platform
 
 📌 Version: 1.0
